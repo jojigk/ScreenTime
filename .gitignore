@@ -1,0 +1,49 @@
+# ---- .NET build output ----
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+TestResults/
+*.trx
+coverage*.xml
+coverage*.json
+
+# ---- Installer build output ----
+installer/publish/
+installer/dist/
+*.msi
+
+# ---- Visual Studio / Rider / VS Code ----
+.vs/
+.idea/
+.vscode/*
+!.vscode/settings.json
+!.vscode/launch.json
+!.vscode/tasks.json
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.rsuser
+*.DotSettings.user
+
+# ---- Local / machine-specific ----
+.claude/settings.local.json
+.claude/*.lock
+appsettings.*.local.json
+*.local.json
+.env
+.env.*
+
+# ---- NuGet ----
+*.nupkg
+*.snupkg
+packages/
+!**/packages/build/
+
+# ---- OS junk ----
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
