@@ -5,6 +5,10 @@
       "Bash(dotnet test *)",
       "PowerShell(dotnet build *)",
       "PowerShell(dotnet test *)"
+    ],
+    "deny": [
+      "Read(**/.env)",
+      "Read(**/.env.*)"
     ]
   }
 }
