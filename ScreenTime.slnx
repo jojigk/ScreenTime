@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ScreenTimeAgent/ScreenTimeAgent.csproj" />
+  <Project Path="ScreenTime.Common/ScreenTime.Common.csproj" />
+  <Project Path="ScreenTimeService.Core/ScreenTimeService.Core.csproj" />
+  <Project Path="ScreenTimeService/ScreenTimeService.csproj" />
+  <Project Path="ScreenTimeService.Tests/ScreenTimeService.Tests.csproj" />
+</Solution>

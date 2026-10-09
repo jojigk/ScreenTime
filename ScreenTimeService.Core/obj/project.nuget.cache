@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hq3fjSZ+io0=",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\ScreenTime\\ScreenTimeService.Core\\ScreenTimeService.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joji George\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.9\\microsoft.extensions.dependencyinjection.abstractions.10.0.9.nupkg.sha512",
+    "C:\\Users\\Joji George\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.9\\microsoft.extensions.logging.abstractions.10.0.9.nupkg.sha512",
+    "C:\\Users\\Joji George\\.nuget\\packages\\system.io.filesystem.accesscontrol\\5.0.0\\system.io.filesystem.accesscontrol.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+E:\Projects\ScreenTime\ScreenTimeService.Core\bin\Release\net10.0-windows\ScreenTimeService.Core.deps.json
+E:\Projects\ScreenTime\ScreenTimeService.Core\bin\Release\net10.0-windows\ScreenTimeService.Core.dll
+E:\Projects\ScreenTime\ScreenTimeService.Core\bin\Release\net10.0-windows\ScreenTimeService.Core.pdb
+E:\Projects\ScreenTime\ScreenTimeService.Core\bin\Release\net10.0-windows\ScreenTime.Common.dll
+E:\Projects\ScreenTime\ScreenTimeService.Core\bin\Release\net10.0-windows\ScreenTime.Common.pdb
+E:\Projects\ScreenTime\ScreenTimeService.Core\obj\Release\net10.0-windows\ScreenTimeService.Core.csproj.AssemblyReference.cache
+E:\Projects\ScreenTime\ScreenTimeService.Core\obj\Release\net10.0-windows\ScreenTimeService.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\ScreenTime\ScreenTimeService.Core\obj\Release\net10.0-windows\ScreenTimeService.Core.AssemblyInfoInputs.cache
+E:\Projects\ScreenTime\ScreenTimeService.Core\obj\Release\net10.0-windows\ScreenTimeService.Core.AssemblyInfo.cs
+E:\Projects\ScreenTime\ScreenTimeService.Core\obj\Release\net10.0-windows\ScreenTimeService.Core.csproj.CoreCompileInputs.cache
+E:\Projects\ScreenTime\ScreenTimeService.Core\obj\Release\net10.0-windows\ScreenTi.5ED35D85.Up2Date
+E:\Projects\ScreenTime\ScreenTimeService.Core\obj\Release\net10.0-windows\ScreenTimeService.Core.dll
+E:\Projects\ScreenTime\ScreenTimeService.Core\obj\Release\net10.0-windows\refint\ScreenTimeService.Core.dll
+E:\Projects\ScreenTime\ScreenTimeService.Core\obj\Release\net10.0-windows\ScreenTimeService.Core.pdb
+E:\Projects\ScreenTime\ScreenTimeService.Core\obj\Release\net10.0-windows\ref\ScreenTimeService.Core.dll
