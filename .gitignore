@@ -30,6 +30,8 @@ installer/dist/
 # ---- Local / machine-specific ----
 .claude/settings.local.json
 .claude/*.lock
+.claude/worktrees/
+CLAUDE.local.md
 appsettings.*.local.json
 *.local.json
 .env
